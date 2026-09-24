@@ -16,8 +16,8 @@ A Python pipeline built with NumPy to handle missing matrix data (NaNs) through 
 ```bash
 python numpy_imputation.py
 ```
-```Sample Output
-Plaintext
+```
+Sample Output
 
 === NUMPY IMPUTATION PIPELINE OUTPUT ===
 Calculated Column Means (Budget, Spend): [534.12 512.89]
