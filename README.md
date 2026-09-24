@@ -13,11 +13,11 @@ A Python pipeline built with NumPy to handle missing matrix data (NaNs) through 
 * **Reproducible Pipeline**: Uses explicit random seeds for reproducible synthetic data generation.
 
 ## How to Run
-```bash
+
 ## How to Run
 1. Open `NumPy_Data_Imputation_Pipeline.ipynb` in VS Code, Jupyter Notebook, PyCharm, or Google Colab.
 2. Execute the notebook cells sequentially to run the data pipeline and generate variance metrics.
-```
+
 ```
 === NUMPY IMPUTATION PIPELINE OUTPUT ===
 Calculated Column Means (Budget, Spend): [534.12 512.89]
