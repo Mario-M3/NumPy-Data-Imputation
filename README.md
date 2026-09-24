@@ -14,7 +14,9 @@ A Python pipeline built with NumPy to handle missing matrix data (NaNs) through 
 
 ## How to Run
 ```bash
-python numpy_imputation.py
+## How to Run
+1. Open `NumPy_Data_Imputation_Pipeline.ipynb` in VS Code, Jupyter Notebook, PyCharm, or Google Colab.
+2. Execute the notebook cells sequentially to run the data pipeline and generate variance metrics.
 ```
 ```
 === NUMPY IMPUTATION PIPELINE OUTPUT ===
