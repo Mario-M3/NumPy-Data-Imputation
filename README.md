@@ -15,7 +15,7 @@ A Python pipeline built with NumPy to handle missing matrix data (NaNs) through 
 ## How to Run
 ```bash
 python numpy_imputation.py
-
+```
 Sample Output
 Plaintext
 
